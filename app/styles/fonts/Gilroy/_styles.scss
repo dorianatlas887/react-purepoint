@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy/Regular/RadomirTinkov-Gilroy-Regular.eot');
+  src: url('fonts/Gilroy/Regular/RadomirTinkov-Gilroy-Regular.woff') format('woff'),
+       url('fonts/Gilroy/Regular/RadomirTinkov-Gilroy-Regular.otf') format('opentype'),
+       url('fonts/Gilroy/Regular/RadomirTinkov-Gilroy-Regular.ttf') format('truetype'),
+       url('fonts/Gilroy/Regular/RadomirTinkov-Gilroy-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy Medium';
+  src: url('fonts/Gilroy/Medium/RadomirTinkov-Gilroy-Medium.eot');
+  src: url('fonts/Gilroy/Medium/RadomirTinkov-Gilroy-Medium.woff') format('woff'),
+       url('fonts/Gilroy/Medium/RadomirTinkov-Gilroy-Medium.otf') format('opentype'),
+       url('fonts/Gilroy/Medium/RadomirTinkov-Gilroy-Medium.ttf') format('truetype'),
+       url('fonts/Gilroy/Medium/RadomirTinkov-Gilroy-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy SemiBold';
+  src: url('fonts/Gilroy/SemiBold/RadomirTinkov-Gilroy-SemiBold.eot');
+  src: url('fonts/Gilroy/SemiBold/RadomirTinkov-Gilroy-SemiBold.woff') format('woff'),
+       url('fonts/Gilroy/SemiBold/RadomirTinkov-Gilroy-SemiBold.otf') format('opentype'),
+       url('fonts/Gilroy/SemiBold/RadomirTinkov-Gilroy-SemiBold.ttf') format('truetype'),
+       url('fonts/Gilroy/SemiBold/RadomirTinkov-Gilroy-SemiBold.svg') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy Bold';
+  src: url('fonts/Gilroy/Bold/RadomirTinkov-Gilroy-Bold.eot');
+  src: url('fonts/Gilroy/Bold/RadomirTinkov-Gilroy-Bold.woff') format('woff'),
+       url('fonts/Gilroy/Bold/RadomirTinkov-Gilroy-Bold.otf') format('opentype'),
+       url('fonts/Gilroy/Bold/RadomirTinkov-Gilroy-Bold.ttf') format('truetype'),
+       url('fonts/Gilroy/Bold/RadomirTinkov-Gilroy-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}

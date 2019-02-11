@@ -1,0 +1,29 @@
+@import '~styles/settings/settings';
+
+.header {
+  background: $dark-gray;
+  &__topLine {
+    min-height: 71px;
+    margin-bottom: $rem-mn;
+    padding-top: $rem-sm;
+    padding-bottom: $rem-sm;
+    @include breakpoint(small only) {
+      min-height: 45px;
+      margin-bottom: 0;
+    }
+  }
+  &__title {
+    text-decoration: none;
+    color: $white;
+    &:hover, &:focus {
+      color: $white;
+    }
+  }
+  &__menuItem {
+    text-decoration: none;
+    color: $white;
+    &:hover, &:focus {
+      color: $white;
+    }
+  }
+}

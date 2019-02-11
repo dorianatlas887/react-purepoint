@@ -1,0 +1,23 @@
+@import '~styles/settings/settings';
+
+.searchBar {
+  position: relative;
+  &__inputField {
+    width: 100%;
+    padding: 10px 110px 10px 10px;
+    border: 1px solid $medium-light-gray;
+    border-radius: $global-radius;
+    &:focus {
+      outline: none;
+    }
+  }
+  &__btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+    border: 1px solid $medium-light-gray;
+    cursor: pointer;
+  }
+}

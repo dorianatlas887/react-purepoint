@@ -1,0 +1,8 @@
+@import '~styles/settings/settings';
+
+.recipe {
+  padding: rem-calc(10px);
+  border: 1px solid $medium-light-gray;
+  border-radius: $global-radius;
+  margin-bottom: rem-calc(10px);
+}
