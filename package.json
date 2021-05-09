@@ -111,7 +111,7 @@
     "immutable": "3.8.2",
     "ip": "1.1.4",
     "leaflet": "^1.0.3",
-    "lodash": "4.17.2",
+    "lodash": "4.17.21",
     "marked": "^0.3.6",
     "metagetta": "^0.4.1",
     "mime-types": "^2.1.16",
